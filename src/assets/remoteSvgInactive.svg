@@ -1,0 +1,19 @@
+<svg id="Group_17" data-name="Group 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76.427" height="66.572" viewBox="0 0 76.427 66.572">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0d645d"/>
+      <stop offset="1" stop-color="#4ab493"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="76.427" height="66.572" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#707070"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_16" data-name="Group 16" clip-path="url(#clip-path)">
+    <path id="Path_18" data-name="Path 18" d="M38.263,0H72.994c.365,0,.73-.008,1.095,0a2.144,2.144,0,0,1,2.334,2.362q.007,23.984,0,47.967a2.185,2.185,0,0,1-2.384,2.43c-1.492.024-2.985.007-4.478.007H3.483c-.4,0-.8.011-1.194-.005A2.171,2.171,0,0,1,0,50.436Q0,26.4,0,2.37C0,.775.863.007,2.636.005Q17.414,0,32.192,0h6.071m-.48,15.9c-.616.063-1.746.115-2.852.3a18.357,18.357,0,0,0-10,5.142,2.22,2.22,0,0,0,.135,3.467,2.187,2.187,0,0,0,2.983-.288,14.535,14.535,0,0,1,20.363.03,2.561,2.561,0,0,0,.558.411,2.226,2.226,0,0,0,2.51-3.651,19.057,19.057,0,0,0-13.691-5.416m.527,8.141a10.717,10.717,0,0,0-7.392,2.839c-1.184,1.076-1.337,2.4-.413,3.405.907.99,2.158.976,3.353-.037a6.3,6.3,0,0,1,8.735.022,2.25,2.25,0,1,0,2.963-3.348,10.647,10.647,0,0,0-7.245-2.882m2.1,10.567a2.2,2.2,0,1,0-4.4-.066,2.2,2.2,0,1,0,4.4.066m-2.2,9.038a2.159,2.159,0,0,0-2.217,2.179,2.137,2.137,0,0,0,2.242,2.243,2.211,2.211,0,0,0-.024-4.422" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+    <path id="Path_19" data-name="Path 19" d="M61.716,295.091v-4.246h39.423v4.246c1.9,0,3.678-.016,5.458.005a2.207,2.207,0,0,1,.419,4.391,9.328,9.328,0,0,1-1.192.038q-24.372,0-48.744,0c-.265,0-.531.006-.8-.006a2.214,2.214,0,1,1,.009-4.423c1.756-.024,3.512-.006,5.423-.006" transform="translate(-43.235 -232.955)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>

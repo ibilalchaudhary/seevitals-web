@@ -1,0 +1,24 @@
+<svg id="Group_15" data-name="Group 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68.673" height="77.998" viewBox="0 0 68.673 77.998">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0d645d"/>
+      <stop offset="1" stop-color="#4ab493"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="68.673" height="77.998" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#707070"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e8e8e8"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_14" data-name="Group 14" clip-path="url(#clip-path)">
+    <path id="Path_16" data-name="Path 16" d="M148.357,112.474c-.327,1.546-.538,3.128-1,4.633a20.545,20.545,0,0,1-38.975.911,7,7,0,0,1-.468-1.552,2.768,2.768,0,0,0-1.921-2.421c-1.978-.855-3.871-1.909-5.96-2.961.41-.242.675-.42.958-.562,1.936-.973,3.89-1.909,5.8-2.929a1.894,1.894,0,0,0,.86-1.087,20.567,20.567,0,0,1,40.3.842c.126.76.268,1.518.4,2.277Zm-27.383-6c1.172,0,2.284-.029,3.394.011a1.042,1.042,0,0,0,1.252-.826,2.166,2.166,0,0,1,2.6-1.4,2.287,2.287,0,0,1,.629,4.217,7.628,7.628,0,0,0-3.45,6.337c-.023.521.084.84.7.825,1.083-.027,2.167-.022,3.25,0,.539.01.713-.232.682-.741a3.062,3.062,0,0,1,1.558-2.773,6.844,6.844,0,0,0-4.64-12.446,6.675,6.675,0,0,0-5.976,6.8m8.979,11.557h-4.5V122.4h4.5Z" transform="translate(-79.684 -72.07)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_17" data-name="Path 17" d="M41.192,78H27.416V66.5H13.763V77.975H0V0H41.192V1.064c0,4.238-.024,8.476.021,12.713A1.238,1.238,0,0,1,40.19,15.2,24.231,24.231,0,0,0,24.1,31.3,2.354,2.354,0,0,1,23,32.478c-4.008,2.054-8.044,4.054-12.071,6.072-.207.1-.406.223-.725.4.293.187.492.341.713.452,4.025,2.02,8.048,4.047,12.087,6.04a2.158,2.158,0,0,1,1.188,1.381,24.2,24.2,0,0,0,15.4,15.758c1.909.692,1.583.132,1.593,2.2.02,4,.006,8,.006,12ZM25.068,6.906H16.043v4.37h9.026Z" fill="url(#linear-gradient-3)"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="4.521" height="6.87" transform="translate(18.31 71.107)" fill="url(#linear-gradient-3)"/>
+  </g>
+</svg>
